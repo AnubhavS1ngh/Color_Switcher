@@ -1,7 +1,6 @@
 # Color_Switcher
-	Overview
+Overview
 This simple web application, titled "Color Scheme Switcher," allows users to change the background color of the page by clicking on different color buttons. The application is built with HTML, CSS, and JavaScript.
-
 Usage
 Open the index.html file in a web browser.
 You will see a canvas with the heading "Color Scheme Switcher" and four color buttons below it.
@@ -21,10 +20,8 @@ Blue (#blue): Changes the background color to blue.
 Yellow (#yellow): Changes the background color to yellow.
 Customization
 Feel free to customize the colors, styles, and layout based on your preferences. You can modify the HTML, CSS, and JavaScript to add more features or enhance the existing ones.
-
 Author
-This Color Switcher application is created by [Your Name].
-
+This Color Switcher application is created by Anubhav.
 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 
