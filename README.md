@@ -7,7 +7,7 @@ You will see a canvas with the heading "Color Scheme Switcher" and four color bu
 Click on any of the color buttons to change the background color of the page.
 Code Structure
 HTML (index.html)
-The HTML file contains the structure of the web page with a canvas div, a heading (<h1>), four color buttons (<span> elements with class "button" and unique IDs), and a subheading (<h2>).
+The HTML file contains the structure of the web page with a canvas div, a heading  four color buttons (<span> elements with class "button" and unique IDs), and a subheading.
 CSS (style.css)
 The CSS file (style.css) provides styling for the web page, setting the initial background color, fonts, and layout. The color buttons have specific styles based on their IDs.
 JavaScript (script.js)
