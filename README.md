@@ -1,6 +1,5 @@
 # Color_Switcher
-
-Overview
+	Overview
 This simple web application, titled "Color Scheme Switcher," allows users to change the background color of the page by clicking on different color buttons. The application is built with HTML, CSS, and JavaScript.
 
 Usage
@@ -30,6 +29,10 @@ License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 
 Enjoy experimenting with different color schemes!
+
+
+
+
 
 
 
